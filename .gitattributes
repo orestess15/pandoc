@@ -1,2 +1,2 @@
-*.docx diff=pandoc
 *.rtf diff=pandoc
+*.docx diff=pandoc
